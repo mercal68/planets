@@ -1,0 +1,12 @@
+filelock==2.0.13
+numpy==1.14.5
+pandas==0.22.0
+pycryptodome==3.6.3
+requests==2.18.4
+scikit-learn==0.19.1
+scipy==1.1.0
+setproctitle==1.1.10
+statsmodels==0.8.0
+toml==0.9.3.1
+
+scoring_h2oai_experiment_secosumo-1.0.0-py3-none-any.whl
